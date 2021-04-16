@@ -7,6 +7,6 @@
 It'd be cool to make plot the highs and lows over time. Maybe I'll do that.
 
 ## Dependencies:
-- requests
-- bs4
-- re I guess
+- `requests`
+- `bs4`
+- `re` I guess
