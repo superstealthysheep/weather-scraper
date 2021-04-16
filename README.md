@@ -1,6 +1,7 @@
 # weather-scraper
 
-scrapes the high and low forecasts off accuweather so you don't have to OPEN A NEW PAGE FOR EVERY SINGLE WEEK
+scrapes the high and low forecasts off accuweather
+so you don't have to OPEN A NEW PAGE FOR EVERY SINGLE WEEK
 
 1. a procrastination project
 2. maybe a gardening aid
